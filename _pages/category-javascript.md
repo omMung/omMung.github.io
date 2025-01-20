@@ -4,8 +4,8 @@ layout: archive
 permalink: /javascript
 author_profile: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
-{% assign posts = site.categories.JavaScript %}
+{% assign posts = site.categories.JavaScript %} // 변경
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
