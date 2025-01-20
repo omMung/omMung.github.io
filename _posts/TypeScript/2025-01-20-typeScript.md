@@ -1,14 +1,11 @@
-
-
 ---
 
-title:  "TypeScript 정리"
-excerpt: "TypeScript 정리 "
+title:  "TypeScript"
+excerpt: "TypeScript "
 
 categories:
 
-- TypeScript
-  
+- TypeScirpt
   tags:
 - [TypeScript]
 
@@ -19,8 +16,6 @@ date: 2025-01-20
 last_modified_at: 2025-01-20
 
 ---
-
-
 
 ## TypeScript
 
