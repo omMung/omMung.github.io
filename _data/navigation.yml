@@ -1,16 +1,20 @@
 # main links
 #main:
-  #- title: "Category"
-  #  url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+#- title: "Category"
+#  url: /categories/
+# - title: "About"
+#   url: https://mmistakes.github.io/minimal-mistakes/about/
+# - title: "Sample Posts"
+#   url: /year-archive/
+# - title: "Sample Collections"
+#   url: /collection-archive/
+# - title: "Sitemap"
+#   url: /sitemap/
 sidebar-category:
+  - title: "📁 TypeScript"
+    url: "/typescript"
+    category: "TypeScript"
+
   - title: "📁 TIL"
     url: "/til"
     category: "TIL"
@@ -26,7 +30,7 @@ sidebar-category:
   - title: "📁 Network"
     url: "/network"
     category: "Network"
-  
+
   - title: "📁 Troubleshooting"
     url: "/troubleshooting"
     category: "Troubleshooting"
