@@ -1,11 +1,11 @@
 ---
-title:  "TypeScript"
+title: "TypeScript"
 excerpt: "TypeScript"
 
 categories:
-- TypeScript
+  - TypeScript
 tags:
-- [TypeScript]
+  - [TypeScript]
 
 toc: true
 toc_sticky: true
@@ -33,22 +33,19 @@ VS Code 코드를 입력하는 순간 에러 메시지 발생(타입이 맞지 �
 ## TypeScript를 사용하면 가능한 점
 
 1. TypeScript의 수요 증가
-   
+
    - Javascript의 단점을 보완한 TypeScript로 요즘 개발 추세가 바뀌는 중
 
 2. 뛰어난 생산성 & 안정성
-   
+
    - 익숙해지면 Js보다 빠르게 작성가능
-   
    - 안정성과 가독성이 높아 개발 유지 보수 과정에서 이점이 큼
-   
    - 정적 언어에 익숙한 프로그래머들과의 협업도 원활해짐
 
 3. 자연스러운 고급 프로그래밍 개념 학습 가능
-   
+
    - 정적 타입 시스템, 객체 지향 프로그래밍, 디자인 패턴등 다양한 고급 개념을 이용함
 
 4. 줄어드는 테스트 코드
-   
-   - 보장된 안정성으로 테스트 코드가 줄어들고, 비지니스 로직 작성에 집중할 수 있음
 
+   - 보장된 안정성으로 테스트 코드가 줄어들고, 비지니스 로직 작성에 집중할 수 있음
