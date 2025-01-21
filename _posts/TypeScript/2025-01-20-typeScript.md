@@ -1,12 +1,10 @@
 ---
-
 title:  "TypeScript"
-excerpt: "TypeScript "
+excerpt: "TypeScript"
 
 categories:
-
 - TypeScirpt
-  tags:
+tags:
 - [TypeScript]
 
 toc: true
@@ -14,7 +12,6 @@ toc_sticky: true
 
 date: 2025-01-20
 last_modified_at: 2025-01-20
-
 ---
 
 ## TypeScript
