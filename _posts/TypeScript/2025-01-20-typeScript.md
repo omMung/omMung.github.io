@@ -3,7 +3,7 @@ title:  "TypeScript"
 excerpt: "TypeScript"
 
 categories:
-- TypeScirpt
+- TypeScript
 tags:
 - [TypeScript]
 
