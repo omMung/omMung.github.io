@@ -58,6 +58,7 @@ const changedPerson = updatePerson(person, { age: 31 });
 #### Required< T >
 Type T의 모든 속성을 필수적으로 만든다!  
 T 타입 객체에 정의된 모든 속성이 반드시 전부 제공되는 객체를 생성할때 사용된다.
+예시)
 #### Readonly< T >
 #### Pick<T,K>
 #### Omit<T,K>
