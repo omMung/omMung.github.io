@@ -1,6 +1,6 @@
 ---
-title: "TypeScript"
-excerpt: "TypeScript"
+title: "TypeScript-1"
+excerpt: "TypeScript-1"
 
 categories:
   - TypeScript
