@@ -1,5 +1,5 @@
 ---
-title: : "Promise-1"
+title: "Promise-1"
 excerpt: "Promise-1"
 
 categories:
@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: 2025-01-25
-last_modified_at: 2025-01-25
+date: 2025-01-20
+last_modified_at: 2025-01-21
 ---
 
 ## Promise
