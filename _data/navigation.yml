@@ -15,10 +15,6 @@ sidebar-category:
     url: "/typescript"
     category: "TypeScript"
 
-  - title: "📁 TIL"
-    url: "/til"
-    category: "TIL"
-
   - title: "📁 SQL"
     url: "/sql"
     category: "SQL"
