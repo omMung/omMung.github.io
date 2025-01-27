@@ -1,11 +1,11 @@
 ---
-title: "Troubleshooting"
+title: "Nest"
 layout: archive
-permalink: /troubleshooting
+permalink: /nest
 author_profile: true
 sidebar:
-    nav: "sidebar-category"
+  nav: "sidebar-category"
 ---
 
-{% assign posts = site.categories.Troubleshooting %}
+{% assign posts = site.categories.Nest %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

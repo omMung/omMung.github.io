@@ -27,6 +27,6 @@ sidebar-category:
     url: "/network"
     category: "Network"
 
-  - title: "📁 Troubleshooting"
-    url: "/troubleshooting"
-    category: "Troubleshooting"
+  - title: "📁 Nest"
+    url: "/nest"
+    category: "Nest"
