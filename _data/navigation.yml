@@ -11,6 +11,10 @@
 # - title: "Sitemap"
 #   url: /sitemap/
 sidebar-category:
+  - title: "📁 ComputerScience"
+    url: "/computerscience"
+    category: "ComputerScience"
+
   - title: "📁 TypeScript"
     url: "/typescript"
     category: "TypeScript"
