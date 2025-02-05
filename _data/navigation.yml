@@ -19,13 +19,17 @@ sidebar-category:
     url: "/typescript"
     category: "TypeScript"
 
+  - title: "📁 JavaScript"
+    url: "/javascript"
+    category: "JavaScript"
+
   - title: "📁 SQL"
     url: "/sql"
     category: "SQL"
 
-  - title: "📁 JavaScript"
-    url: "/javascript"
-    category: "JavaScript"
+  - title: "🐋 Docker"
+    url: "/docker"
+    category: "Docker"
 
   - title: "📁 Network"
     url: "/network"
