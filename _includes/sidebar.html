@@ -22,7 +22,10 @@
       <!-- 각 그룹마다 별도의 토글 생성 -->
       <summary><strong>{{ category_group.group }}</strong></summary>
       <ul>
-        {% for item in category_group.items %}
+        {% for item in category_group.items %} {% assign post_count = 0 %} {%
+        for post in site.posts %} {% if post.categories contains item.category
+        %} {% assign post_count = post_count | plus: 1 %} {% endif %} {% endfor
+        %}
         <li><a href="{{ item.url }}">{{ item.title }}</a></li>
         {% endfor %}
       </ul>
