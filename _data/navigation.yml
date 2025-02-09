@@ -11,6 +11,8 @@
 # - title: "Sitemap"
 #   url: /sitemap/
 sidebar-category:
+-title: "컴퓨터 지식"
+  children:
   - title: "📁 ComputerScience"
     url: "/computerscience"
     category: "ComputerScience"
