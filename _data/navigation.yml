@@ -11,30 +11,32 @@
 # - title: "Sitemap"
 #   url: /sitemap/
 sidebar-category:
-  - title: "📁 ComputerScience"
-    url: "/computerscience"
-    category: "ComputerScience"
+  - group: "📚 프로그래밍 언어"
+    items:
+      - title: "TypeScript"
+        url: "/typescript"
+        category: "TypeScript"
+      - title: "JavaScript"
+        url: "/javascript"
+        category: "JavaScript"
+      - title: "SQL"
+        url: "/sql"
+        category: "SQL"
 
-  - title: "📁 TypeScript"
-    url: "/typescript"
-    category: "TypeScript"
+  - group: "🖥️ 개발 및 도구"
+    items:
+      - title: "Docker"
+        url: "/docker"
+        category: "Docker"
+      - title: "Nest"
+        url: "/nest"
+        category: "Nest"
 
-  - title: "📁 JavaScript"
-    url: "/javascript"
-    category: "JavaScript"
-
-  - title: "📁 SQL"
-    url: "/sql"
-    category: "SQL"
-
-  - title: "🐋 Docker"
-    url: "/docker"
-    category: "Docker"
-
-  - title: "📁 Network"
-    url: "/network"
-    category: "Network"
-
-  - title: "📁 Nest"
-    url: "/nest"
-    category: "Nest"
+  - group: "💡 컴퓨터 과학"
+    items:
+      - title: "Computer Science"
+        url: "/computerscience"
+        category: "ComputerScience"
+      - title: "Network"
+        url: "/network"
+        category: "Network"

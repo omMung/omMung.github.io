@@ -12,7 +12,7 @@
   {% endif %} {% if s.text %}{{ s.text | markdownify }}{% endif %} {% if s.nav
   %}{% include nav_list nav=s.nav %}{% endif %} {% endfor %} {% if
   page.sidebar.nav %} {% include nav_list nav=page.sidebar.nav %} {% endif %} {%
-  endif %} {% if site.data.navigation.sidebar-category %}
+  endif %}
   <nav class="sidebar-nav">
     <details open>
       <!-- 페이지 로드 시 기본적으로 열려 있도록 설정 -->
