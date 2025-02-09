@@ -12,26 +12,17 @@
   {% endif %} {% if s.text %}{{ s.text | markdownify }}{% endif %} {% if s.nav
   %}{% include nav_list nav=s.nav %}{% endif %} {% endfor %} {% if
   page.sidebar.nav %} {% include nav_list nav=page.sidebar.nav %} {% endif %} {%
-  endif %} {% if site.data.navigation.main %}
+  endif %} {% if site.data.navigation.sidebar-category %}
   <nav class="sidebar-nav">
-    <ul>
-      {% for item in site.data.navigation.main %}
-      <li>
-        {% if item.children %}
-        <details>
-          <summary>{{ item.title }}</summary>
-          <ul>
-            {% for subitem in item.children %}
-            <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </details>
-        {% else %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-        {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+    <details open>
+      <!-- 페이지 로드 시 기본적으로 열려 있도록 설정 -->
+      <summary><strong>📂 카테고리</strong></summary>
+      <ul>
+        {% for item in site.data.navigation.sidebar-category %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </details>
   </nav>
   {% endif %}
 </div>
