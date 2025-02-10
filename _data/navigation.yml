@@ -40,3 +40,6 @@ sidebar-category:
       - title: "Network"
         url: "/network"
         category: "Network"
+      - title: "Algorithm"
+        url: "/algorithm"
+        category: "Algorithm"
