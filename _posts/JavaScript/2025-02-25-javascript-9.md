@@ -1,6 +1,6 @@
 ---
-title: ""
-excerpt: "Express"
+title: "깊은복사와 얉은복사"
+excerpt: "Deep & Shallow"
 
 categories:
   - JavaScript
