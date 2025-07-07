@@ -75,7 +75,7 @@ Promise를 사용하면 비동기 메서드에서 마치 동기 메서드를 이
    변수 참조 : 변수에 할당된 값을 읽어오는 것
    ```
    2. 변수 할당 방식
-   ````javascript
+   ```javascript
    1. var : 여러 번 같은 이름 선언 가능, 마지막 선언한 값으로 변수가 덮어씌워진다.
    var myVar = "Hello";
    var myVar = "World";
@@ -87,8 +87,8 @@ Promise를 사용하면 비동기 메서드에서 마치 동기 메서드를 이
    3. const : 같은 이름의 변수 선언, 변수 값 변경 불가
    const myConst = "Hello";
    myConst = "World"; // 오류 발생
-   console.log(myConst);```
-   ````
+   console.log(myConst);
+   ```
 2. 데이터 타입과 형 변환
    데이터 타입
    1. 숫자(Number)
